@@ -36,8 +36,8 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository-url.git
-   cd your-repository
+   git clone https://github.com/express-app.git
+   cd express-app
    ```
 
 2. Install dependencies:
